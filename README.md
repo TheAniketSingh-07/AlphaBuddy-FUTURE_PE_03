@@ -1,6 +1,6 @@
-# 🤖 AlphaBuddy – AI Chatbot for Motivation, Focus, and Growth
+# AlphaBuddy🧠 – AI Chatbot for Motivation, Focus, and Growth
 
-AlphaBuddy is a smart, friendly AI-powered chatbot built during my Generative AI internship at **Future Interns**. It's designed to help users stay focused, feel motivated, build confidence, and reset emotionally — all through calm, human-like conversation.
+AlphaBuddy is a smart, friendly AI-powered chatbot built during my Prompt Engineering Internship at **Future Interns**. It's designed to help users stay focused, feel motivated, build confidence, and reset emotionally — all through calm, human-like conversation.
 
 ### 🧠 AlphaBuddy's 3 Core Persona Roles
 
@@ -36,11 +36,11 @@ AlphaBuddy is a smart, friendly AI-powered chatbot built during my Generative AI
 | `README.md` | Overview of project |
 
 ### 📚 What I Learned
-- Designing chatbot personas and tone
+- Designing chatbot personas and      tone
 - Writing effective AI prompts
 - Using no-code tools like Landbot
 - Creating user-friendly chat flows
-
+- Embedding chatbot in website 
 ---
 
 > 💬 _"Sometimes you don’t need a therapist or a teacher—just a buddy who listens and helps. That’s AlphaBuddy."_  
