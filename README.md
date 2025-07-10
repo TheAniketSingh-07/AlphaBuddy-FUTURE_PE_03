@@ -1,5 +1,10 @@
 # AlphaBuddy🧠 – AI Chatbot for Motivation, Focus, and Growth
 
+<p align="center">
+  <img src="chatbot.jpg" width="100%"/> 
+</p>
+
+
 AlphaBuddy is a smart, friendly AI-powered chatbot built during my Prompt Engineering Internship at **Future Interns**. It's designed to help users stay focused, feel motivated, build confidence, and reset emotionally — all through calm, human-like conversation.
 
 ### 🧠 AlphaBuddy's 3 Core Persona Roles
