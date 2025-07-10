@@ -1,7 +1,7 @@
 # AlphaBuddy🧠 – AI Chatbot for Motivation, Focus, and Growth
 
 <p align="center">
-  <img src="chatbot.jpg" width="100%"/> 
+  <img src="assets/chatbot.jpg" width="100%"/> 
 </p>
 
 
