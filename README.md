@@ -26,6 +26,15 @@ AlphaBuddy is a smart, friendly AI-powered chatbot built during my Prompt Engine
 👉 [Try AlphaBuddy Now](https://landbot.online/v3/H-3039699-7SRS68U7JTUYNRLS/index.html)
 
 
+You can also can to get interface -Alphabuddy in phone
+
+<p align="center">
+  <img src="assets/QR.jpg" width="50%"/> 
+</p>
+
+
+
+
 ### 💡 Technologies Used
 - Landbot (GPT Agent + Flow)
 - Prompt Engineering
