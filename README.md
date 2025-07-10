@@ -29,7 +29,7 @@ AlphaBuddy is a smart, friendly AI-powered chatbot built during my Prompt Engine
 You can also can to get interface -Alphabuddy in phone
 
 <p align="center">
-  <img src="assets/QR.jpg" width="50%"/> 
+  <img src="assets/QR.jpg"  height="50%" width="50%"/> 
 </p>
 
 
